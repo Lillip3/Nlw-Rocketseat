@@ -12,7 +12,7 @@ body * {
 
 body{
     background-color: #121214;
-    background-image: url(./canva/luasem.png); 
+    background-image: url(./imagens/pa.png);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: 100% auto;
@@ -22,8 +22,7 @@ body{
 header{
     margin-top: 32px;
     height: calc(120px + 32px);
-
-
+    
 }
 
 header div{
