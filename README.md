@@ -6,6 +6,8 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
+[🔗clique aqui para acessar](https://lillip3.github.io/Nlw-Rocketseat/)
+
 
 ## 🛠Tecnologias
 
